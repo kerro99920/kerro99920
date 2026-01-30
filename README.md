@@ -20,7 +20,7 @@
 
 ### 💬 欢迎交流
 
-FastAPI / RAG 流水线 / Milvus 向量数据库 / 多智能体系统 / Agent 开发
+FastAPI / RAG / Milvus 向量数据库 / 多智能体系统 / Agent 开发
 
 ### ⚡ 关于我
 
