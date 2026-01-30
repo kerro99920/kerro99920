@@ -1,55 +1,55 @@
-<div align="center">
-  
-# Hey there 👋 I'm Kerro
+## 你好 👋 我是 Kerro
 
-### 🚀 Civil Engineering → AI Engineer | Building Intelligent Systems with Code
+> 土木工程 → AI 工程师 | 用代码构建智能系统
 
-<!-- 使用 KARPED1EM 的 Vercel 实例 -->
-![Kerro's GitHub Stats](https://grs-karped1em.vercel.app/api?username=kerro99920&show_icons=true&theme=tokyonight&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true)
+### 🛠️ 技术栈
 
-![Top Langs](https://grs-karped1em.vercel.app/api/top-langs/?username=kerro99920&layout=compact&theme=tokyonight)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</div>
+### 🔭 目前在做
 
----
+- 🤖 **智慧工地 AI Agent 系统** — 周报智能体、风险分析智能体、成本分析智能体、进度分析智能体
+- 📚 **RAG 工程知识库系统** — 混合检索策略（向量搜索 + BM25）
 
-## 🛠️ Tech Stack
+### 📊 项目亮点
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+| 指标 | 数据 |
+|------|------|
+| RAG 系统准确率 | **85%+** |
+| 召回率提升 | **30%** |
+| 查询响应时间 | **< 1 秒** |
+| 日均处理查询 | **200+** |
+| 项目代码量 | **13,000+ 行** |
 
----
+### 🌱 正在学习
 
-## 🔭 What I Do
+- 算法进阶（LeetCode 刷题中 📈）
+- 多模态模型 & 视觉模型
+- 系统架构优化
 
-| 🤖 AI Agents | 📚 RAG Systems | 🎫 Microservices |
-|:---:|:---:|:---:|
-| WeeklyReport | Vector + BM25 | MCP & A2A |
-| RiskAnalysis | 85%+ Accuracy | SmartVoyage |
-| CostAnalysis | <1s Response | Multi-Agent |
+### 💬 欢迎交流
 
----
+FastAPI / RAG 流水线 / Milvus 向量数据库 / 多智能体系统 / Agent 开发
 
-## 📊 Highlights
+### ⚡ 关于我
 
-<p align="center">
-  <img src="https://img.shields.io/badge/RAG_Accuracy-85%25+-2ecc71?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Recall-+30%25-3498db?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Response-<1s-e67e22?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Code-13K+_Lines-e74c3c?style=for-the-badge" />
-</p>
+土木工程专业毕业（2020-2024），大二开始自学 Python，赶上了国内 AI 浪潮 🌊  
+现在专注于 AI Agent 和企业级系统开发，把工程思维和代码能力结合起来 🚀
 
 ---
 
-## ⚡ About Me
-```python
+### 📈 GitHub 统计
+
+![Kerro's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerro99920&show_icons=true&theme=tokyonight&locale=cn)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerro99920&layout=compact&theme=tokyonight&locale=cn)
+
+---
+
+📫 **联系我**：[kerro99920@gmail.com]
