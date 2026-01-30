@@ -1,4 +1,4 @@
-## 你好 👋 我是 Kerro
+## 泥嚎 👋 我是 Kerro
 
 > 土木工程 → AI 工程师 | 用代码构建智能系统
 
@@ -11,11 +11,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🔭 目前在做
-
-- 🤖 **智慧工地 AI Agent 系统** — 周报智能体、风险分析智能体、成本分析智能体、进度分析智能体
-- 📚 **RAG 工程知识库系统** — 混合检索策略（向量搜索 + BM25）
 
 ### 🌱 正在学习
 
