@@ -17,16 +17,6 @@
 - 🤖 **智慧工地 AI Agent 系统** — 周报智能体、风险分析智能体、成本分析智能体、进度分析智能体
 - 📚 **RAG 工程知识库系统** — 混合检索策略（向量搜索 + BM25）
 
-### 📊 项目亮点
-
-| 指标 | 数据 |
-|------|------|
-| RAG 系统准确率 | **85%+** |
-| 召回率提升 | **30%** |
-| 查询响应时间 | **< 1 秒** |
-| 日均处理查询 | **200+** |
-| 项目代码量 | **13,000+ 行** |
-
 ### 🌱 正在学习
 
 - 算法进阶（LeetCode 刷题中 📈）
@@ -41,14 +31,6 @@ FastAPI / RAG 流水线 / Milvus 向量数据库 / 多智能体系统 / Agent �
 
 土木工程专业毕业（2020-2024），大二开始自学 Python，赶上了国内 AI 浪潮 🌊  
 现在专注于 AI Agent 和企业级系统开发，把工程思维和代码能力结合起来 🚀
-
----
-
-### 📈 GitHub 统计
-
-![Kerro's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerro99920&show_icons=true&theme=tokyonight&locale=cn)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerro99920&layout=compact&theme=tokyonight&locale=cn)
 
 ---
 
