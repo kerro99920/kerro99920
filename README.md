@@ -11,34 +11,15 @@
 
 ---
 
-<!-- Profile Details - 使用不同主题增加色彩 -->
+<!-- 左边饼图 + 右边折线图 -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kerro99920&theme=radical" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerro99920&layout=pie&theme=radical&hide_border=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=kerro99920&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
 </p>
 
-<!-- 统计卡片 - 使用不同颜色主题 -->
+<!-- Activity Graph 折线图 -->
 <p align="center">
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kerro99920&theme=dracula" />
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kerro99920&theme=monokai" />
-</p>
-
-<p align="center">
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kerro99920&theme=vue" />
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kerro99920&theme=github_dark&utcOffset=8" />
-</p>
-
----
-
-<!-- Streak Stats - 彩虹渐变主题 -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kerro99920&theme=radical&hide_border=true&border_radius=10" />
-</p>
-
----
-
-<!-- Activity Graph - 渐变色 -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerro99920&theme=react-dark&hide_border=true&area=true&area_color=00D9FF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerro99920&theme=redical&hide_border=true&area=true" />
 </p>
 
 ---
@@ -46,57 +27,54 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,langchain&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=docker,linux,mysql,redis,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,docker,linux,mysql,git&theme=dark" />
 </p>
 
 ---
 
-## 🔭 Currently Working On
+## 🔭 What I Do
 
-<table align="center">
-  <tr>
-    <td>🤖</td>
-    <td><b>Enterprise AI Agent Systems</b></td>
-    <td>WeeklyReportAgent, RiskAnalysisAgent, CostAnalysisAgent</td>
-  </tr>
-  <tr>
-    <td>📚</td>
-    <td><b>RAG Knowledge Base</b></td>
-    <td>Hybrid retrieval (Vector Search + BM25)</td>
-  </tr>
-  <tr>
-    <td>🎫</td>
-    <td><b>SmartVoyage System</b></td>
-    <td>Microservices with MCP & A2A Agent</td>
-  </tr>
-</table>
+| 🤖 AI Agents | 📚 RAG Systems | 🎫 Microservices |
+|:---:|:---:|:---:|
+| WeeklyReport | Vector + BM25 | MCP & A2A |
+| RiskAnalysis | 85%+ Accuracy | SmartVoyage |
+| CostAnalysis | <1s Response | Multi-Agent |
 
 ---
 
-## 📊 Project Highlights
+## 📊 Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RAG_Accuracy-85%25+-success?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Recall_Boost-+30%25-blue?style=for-the-badge&logo=trending-up&logoColor=white" />
-  <img src="https://img.shields.io/badge/Response_Time-<1s-orange?style=for-the-badge&logo=lightning&logoColor=white" />
-  <img src="https://img.shields.io/badge/Daily_Queries-200+-purple?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codebase-13K+_Lines-red?style=for-the-badge&logo=code&logoColor=white" />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-<p align="center">
-  <img src="https://progress-bar.dev/60/?title=Algorithms&color=ff6b6b&width=200" />
-  <img src="https://progress-bar.dev/90/?title=LLM/Agents&color=4ecdc4&width=200" />
-  <img src="https://progress-bar.dev/80/?title=System_Design&color=45b7d1&width=200" />
-  <img src="https://progress-bar.dev/40/?title=Vision_Models&color=96ceb4&width=200" />
+  <img src="https://img.shields.io/badge/RAG_Accuracy-85%25+-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Recall-+30%25-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Response-<1s-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code-13K+_Lines-red?style=for-the-badge" />
 </p>
 
 ---
 
 ## ⚡ About Me
 ```python
+class Kerro:
+    background = "Civil Engineering (2020-2024)"
+    role = "AI Engineer"
+    stack = ["FastAPI", "LangChain", "PyTorch", "Milvus"]
+    focus = ["RAG", "AI Agents", "Enterprise Systems"]
+    motto = "From structures to intelligent systems 🏗️→🤖"
+```
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" />
+</p>
