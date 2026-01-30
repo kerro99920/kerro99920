@@ -4,30 +4,28 @@
 
 ### 🚀 Civil Engineering → AI Engineer | Building Intelligent Systems with Code
 
-[![GitHub followers](https://img.shields.io/github/followers/kerro99920?style=social)](https://github.com/kerro99920)
-[![Profile Views](https://komarev.com/ghpvc/?username=kerro99920&color=brightgreen&style=flat)](https://github.com/kerro99920)
+<!-- 使用 KARPED1EM 的 Vercel 实例 -->
+![Kerro's GitHub Stats](https://grs-karped1em.vercel.app/api?username=kerro99920&show_icons=true&theme=tokyonight&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true)
+
+![Top Langs](https://grs-karped1em.vercel.app/api/top-langs/?username=kerro99920&layout=compact&theme=tokyonight)
 
 </div>
-
----
-
-<!-- 左边饼图 + 右边折线图 -->
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerro99920&layout=pie&theme=radical&hide_border=true" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=kerro99920&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-</p>
-
-<!-- Activity Graph 折线图 -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerro99920&theme=redical&hide_border=true&area=true" />
-</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,docker,linux,mysql,git&theme=dark" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -45,36 +43,13 @@
 ## 📊 Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RAG_Accuracy-85%25+-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Recall-+30%25-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Response-<1s-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Code-13K+_Lines-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG_Accuracy-85%25+-2ecc71?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Recall-+30%25-3498db?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Response-<1s-e67e22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code-13K+_Lines-e74c3c?style=for-the-badge" />
 </p>
 
 ---
 
 ## ⚡ About Me
 ```python
-class Kerro:
-    background = "Civil Engineering (2020-2024)"
-    role = "AI Engineer"
-    stack = ["FastAPI", "LangChain", "PyTorch", "Milvus"]
-    focus = ["RAG", "AI Agents", "Enterprise Systems"]
-    motto = "From structures to intelligent systems 🏗️→🤖"
-```
-
----
-
-## 📫 Contact
-
-<p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" />
-</p>
